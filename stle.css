@@ -1,0 +1,50 @@
+main {
+    text-align: center;
+    color: red;
+    font-style: italic;
+}
+
+.row {
+    text-align: center;
+
+}
+
+.img1 {
+    border: 3px solid black;
+    margin: 5px;
+    padding: 1%;
+    background-color: black;
+
+}
+
+.img2 {
+    border: 3px solid black;
+    margin: 5px;
+    padding: 1%;
+    background-color: black;
+
+}
+
+.img3 {
+    border: 3px solid black;
+    margin: 5px;
+    padding: 1%;
+    background-color: black;
+
+
+}
+
+.img4 {
+    border: 3px solid black;
+    margin: 5px;
+    padding: 10px;
+    background-color: black;
+
+}
+
+body {
+    background-image: url("img/sunnyOPgif.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
